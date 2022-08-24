@@ -1,4 +1,4 @@
-## Hey! 👋 Soy Nicolas Diaz  <img height="50" width="50" alt="" src="https://github.githubassets.com/images/mona-whisper.gif" />
+## Hey! 👋 Soy Nicolas Diaz  :monkey:
 
 #### Ingeniero de Sistemas y desarrollador en formacion.
 
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-### Tecnologías:
+### :computer: Tecnologías:
 
 [<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][github]
 [<img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.svg" />][github]
@@ -21,7 +21,7 @@
 <br />
 <br />
 
-### :zap: Mis Stats :3
+### :mag: Mis Stats :3
 
 [![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -30,7 +30,7 @@
 <br />
 <br />
 
-## Views Counter
+## :mag: Views Counter
 <img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>
 
 [linkedin]: https://www.linkedin.com/in/nicolas-diaz-vargas/
