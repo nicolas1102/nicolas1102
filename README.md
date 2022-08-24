@@ -23,9 +23,7 @@
 
 ### :zap: Mis Stats :3
 
-[![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&langs_count=6&count_private=true&theme=buefy&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
