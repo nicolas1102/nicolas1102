@@ -1,7 +1,7 @@
 ## Hey! 👋 I'm Nicolas Diaz...  :monkey:
 
 #### Systems engineer and developer in training...
-
+---
 ### Contact me:
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -11,7 +11,7 @@
 
 <br />
 <br />
-
+---
 ### :computer: Technologies:
 
 [<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][github]
