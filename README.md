@@ -11,7 +11,7 @@
 
 <br />
 <br />
----
+
 ### :computer: Technologies:
 
 [<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][github]
