@@ -24,7 +24,6 @@
 ### :zap: Mis Stats :3
 
 [![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&langs_count=6&count_private=true&theme=buefy&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
@@ -33,7 +32,7 @@
 ## Views Counter
 <img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>
 
-[linkedin]: www.linkedin.com/in/nicolas-diaz-vargas/
+[linkedin]: https://www.linkedin.com/in/nicolas-diaz-vargas/
 [facebook]: https://www.facebook.com/nicolasdiazv1102/
 [gmail]: mailto:nicolasdiazv1102@gmail.com
 [github]: https://github.com/nicolas1102
