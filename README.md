@@ -33,7 +33,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&langs_count=6&count_private=true&theme=buefy&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: www.linkedin.com/in/nicolas-diaz-vargas/
 [facebook]: https://www.facebook.com/nicolasdiazv1102/
