@@ -31,7 +31,7 @@
 <br />
 
 ## :mag: Views Counter:
-<img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>
+[<img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>][github]
 
 [linkedin]: https://www.linkedin.com/in/nicolas-diaz-vargas/
 [facebook]: https://www.facebook.com/nicolasdiazv1102/
