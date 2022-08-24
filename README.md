@@ -14,6 +14,8 @@
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-D14836?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />][instagram]
+
 
 <br />
 <br />
