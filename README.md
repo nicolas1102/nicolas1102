@@ -2,10 +2,9 @@
 
 #### Systems engineer and developer in training...
 
----
-
-## Ey, Visit My Portfolio (still under construction)
+### Visit My Portfolio (still under construction)
 https://nicolas1102.github.io/portfolio/
+
 
 ---
 ### Contact me:
