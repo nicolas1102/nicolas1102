@@ -1,7 +1,10 @@
-## Hey! 👋 I'm Nicolas Diaz...  :monkey:
+## Nicolas Diaz...  :monkey:
 
-#### Systems engineer and developer in training...
+**`Technology Enthusiast / Developer in Training / Gym Goer / English Learner`**
 
+I am a system engineer in training with the desire to become a full-stack developer and always be a better version of myself by learning everything I can about this world of development. Every project that I develop is done consciously and although I know that each one could have been better, I am satisfied with what I have achieved and learned by developing each one.
+
+In the "Repositories" tab you can find some of the projects I have done so you can get an idea of my skills acquired over time on development, from my beginnings to today.
 
 ---
 ### Contact me:
@@ -16,9 +19,15 @@
 
 ### :computer: Technologies:
 
-[<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][github]
-[<img align="left" alt="js" width="30px" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.svg" />][github]
-[<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][github]
+[<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />][github]
+[<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />][github]
+[<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />][github]
+[<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />][github]
+[<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />][github]
+[<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />][github]
+[<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />][github]
+[<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
+
 
 <br />
 <br />
@@ -29,6 +38,13 @@
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas1102&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 👨‍💻 Nicolas Coding Journey
+I started my coding journey as a system engineering student where I started to learn a lot of theory, some technologies and languages like Java, C++ and Python, But in my first year of study I realized that the university was not going to teach me everything I wanted to learn and not even what I needed to be a good programmer, so I decided to take charge of my programming training and began to learn by myself (courses, personal projects, videos, internet articles, etc...). As a student of systems engineering and my self-taught learning, I can satisfy the desire to learn everything I can about the programming world (code, internet, theory, networks, etc...). Currently I'm still studying and learning to enter this world, and I just have one thing to say to the programming world... don't neglect yourself, because I'm coming for ya...
+
+---
 
 ## :mag: Views Counter:
 [<img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>][github]
