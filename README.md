@@ -46,7 +46,7 @@ I started my coding journey as a system engineering student where I started to l
 
 ---
 
-## :mag: Views Counter:
+#### :mag: Views Counter:
 [<img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>][github]
 
 [linkedin]: https://www.linkedin.com/in/nicolas-diaz-vargas/
