@@ -9,10 +9,10 @@ In the "Repositories" tab you can find some of the projects I have done so you c
 ---
 ### Contact me:
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" _target/>][linkedin]
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"  _target />][gmail]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" _target/>][facebook]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-D14836?&style=for-the-badge&logo=instagram&logoColor=white" _target/>][instagram]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"/>][gmail]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" target="_blank"/>][facebook]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-D14836?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>][instagram]
 
 <br />
 <br />
