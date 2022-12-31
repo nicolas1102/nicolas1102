@@ -9,10 +9,10 @@ In the "Repositories" tab you can find some of the projects I have done so you c
 ---
 ### Contact me:
 
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-D14836?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" _target/>][linkedin]
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"  _target />][gmail]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" _target/>][facebook]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-D14836?&style=for-the-badge&logo=instagram&logoColor=white" _target/>][instagram]
 
 <br />
 <br />
@@ -53,4 +53,4 @@ I started my coding journey as a system engineering student where I started to l
 [facebook]: https://www.facebook.com/nicolasdiazv1102/
 [gmail]: mailto:nicolasdiazv1102@gmail.com
 [github]: https://github.com/nicolas1102
-[instagram]: https://www.instagram.com/_diaz_nicolas_/
+[instagram]: https://www.instagram.com/nicolasdiaz_1102/
