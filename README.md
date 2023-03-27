@@ -1,6 +1,6 @@
 ## 🏋️‍♂️ Nicolas Diaz
 
-**`Technology Enthusiast / Developer in Training / Gym Rat / English Learner`**
+**`Technology Enthusiast / Developer in Training / Gymrat / English Learner`**
 
 I am a system engineer in training with the desire to become a full-stack developer and always be a better version of myself by learning everything I can about this world of development. Every project that I develop is done consciously and although I know that each one could have been better, I am satisfied with what I have achieved and learned by developing each one.
 
