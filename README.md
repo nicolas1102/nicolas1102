@@ -19,7 +19,7 @@ In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 <br />
 <br />
 
-### :computer: Technologies:
+### :desktop_computer: Technologies:
 
 [<img align="left" alt="Express" width="30px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" />][github]
 [<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][github]
@@ -36,7 +36,7 @@ In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 <br />
 <br />
 
-### :mag: My Stats:
+### :mag_right: My Stats:
 
 [![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -50,7 +50,7 @@ I started my coding journey as a system engineering student where I started to l
 
 ---
 
-#### :mag: Views Counter:
+#### :mag_right: Views Counter:
 [<img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>][github]
 
 [linkedin]: https://www.linkedin.com/in/nicolas-diaz-vargas/
