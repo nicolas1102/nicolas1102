@@ -9,7 +9,8 @@ In the "Repositories" tab you can find some of the projects I have done so you c
 In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 
 ---
-### Contact me:
+### -![штащкьфешщтGIF](https://github.com/nicolas1102/nicolas1102/assets/95261821/c686b5c3-cea1-4434-9d1d-4f7580af3d94)
+ Contact me:
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"/>][gmail]
@@ -19,7 +20,7 @@ In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 <br />
 <br />
 
-### :desktop_computer: Technologies:
+### 💻 Technologies:
 
 [<img align="left" alt="Express" width="30px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" />][github]
 [<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][github]
@@ -36,7 +37,7 @@ In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 <br />
 <br />
 
-### :mag_right: My Stats:
+### 🔍 My Stats:
 
 [![Nicolas's Stats](https://github-readme-stats.vercel.app/api?username=nicolas1102&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
@@ -50,7 +51,7 @@ I started my coding journey as a system engineering student where I started to l
 
 ---
 
-#### :mag_right: Views Counter:
+#### 🔍 Views Counter:
 [<img src="https://komarev.com/ghpvc/?username=nicolas1102&style=flat-square&color=blue" alt=""/>][github]
 
 [linkedin]: https://www.linkedin.com/in/nicolas-diaz-vargas/
