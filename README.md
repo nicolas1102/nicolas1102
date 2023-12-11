@@ -58,4 +58,4 @@ I started my coding journey as a system engineering student where I started to l
 [facebook]: https://www.facebook.com/nicolasdiazv1102/
 [gmail]: mailto:nicolasdiazv1102@gmail.com
 [github]: https://github.com/nicolas1102
-[instagram]: https://www.instagram.com/nicolasdiaz_1102/
+[instagram]: https://www.instagram.com/nicolasdiazv_/?theme=dark
