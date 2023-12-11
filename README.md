@@ -9,8 +9,7 @@ In the "Repositories" tab you can find some of the projects I have done so you c
 In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 
 ---
-### -![штащкьфешщтGIF](https://github.com/nicolas1102/nicolas1102/assets/95261821/c686b5c3-cea1-4434-9d1d-4f7580af3d94)
- Contact me:
+### 🔍 Contact me:
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>][linkedin]
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"/>][gmail]
