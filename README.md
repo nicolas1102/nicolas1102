@@ -21,6 +21,7 @@ In this link you can see my portfolio: https://nicolas-diaz.vercel.app
 
 ### 💻 Technologies:
 [<img align="left" alt="NextJS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" />][github]
+[<img align="left" alt="Tailwind" width="30px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />][github]
 [<img align="left" alt="Express" width="30px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" />][github]
 [<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />][github]
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />][github]
