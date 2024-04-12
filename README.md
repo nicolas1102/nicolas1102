@@ -1,4 +1,4 @@
-## 🏋️‍♂️ Nicolas Diaz
+## 🏋️‍♂️ Nicolás Díaz
 
 **`Technology Enthusiast / Developer in Training / Gymrat / English Learner`**
 
